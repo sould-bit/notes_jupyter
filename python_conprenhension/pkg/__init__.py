@@ -1,0 +1,3 @@
+print('inicio')
+
+URL = 'platzi'
