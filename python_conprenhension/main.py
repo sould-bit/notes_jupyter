@@ -1,4 +1,4 @@
-
+# %%
 # from pkg import mod_1 ,mod_2
 
 
@@ -14,8 +14,3 @@
 
 # #name_sapace , espacio de valor reservado , buena practica 
 # print(pkg.mod_1.func_1())
-suma = lambda x,y: x + y
-
-assert suma(2,3)  ==4
-
-print('hi')
